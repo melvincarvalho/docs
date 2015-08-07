@@ -1,0 +1,2 @@
+# docs
+gitpay docs
