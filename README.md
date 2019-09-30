@@ -1,2 +1,2 @@
 # docs
-gitpay docs
+docs
